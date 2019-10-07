@@ -1,0 +1,8 @@
+des tests
+plus de tests
+<<<<<<< HEAD
+moins de tests
+=======
+plus de tests
+>>>>>>> conflict
+encore plus de tests
